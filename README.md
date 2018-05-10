@@ -23,4 +23,4 @@ Empty clusters in a certain iteration have been droped and randomly the largest 
 
 A graph is plot for the values of k and L(K).
 
-![Graph](https://github.com/tarunkolla/K-Means/blob/master/Read-Me-Doc/Graph.png "graph ploted with ptoential function for different values ok k")
+![Graph](https://github.com/tarunkolla/K-Means/blob/master/Read-Me-Doc/Graph.png "graph ploted with ptoential function for different values of k")
